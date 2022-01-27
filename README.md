@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <a href="mailto:sandeepswnkumar@gmail.com" target="_blank"><img src="images/official-gmail-icon.svg" alt="Gmail Logo" width="50"></a>&emsp;
 <a href="https://www.linkedin.com/in/sandeep-kumar-gupta-850818190/" target="_blank"><img src="images/linkedin-icon-2.svg" alt="LinkedIn Logo" width="50"></a>&emsp;
 <a href="https://twitter.com/itsss_sandy" target="_blank"><img src="images/twitter-6.svg" alt="Twitter Logo" width="80"></a>&emsp;
-<a href="https://t.me/sandeepswnkumar" target="_blank"><img src="images/discord-6.svg" alt="Discord Logo" width="60"></a>&emsp;
+<a href="https://t.me/sandeepswnkumar" target="_blank"><img src="images/Telegram.png" alt="Telegram Logo" width="60"></a>&emsp;
