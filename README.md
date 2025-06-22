@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1> Hi there 👋, I’m Sandeep Kumar Gupta</h1>
-<h3>I'm a college student and Aspirant to Full Stack developer.</h3>
+<!--<h3>I'm a college student and Aspirant to Full Stack developer.</h3>-->
 
 - 👀 I’m interested in Full Stack Development, Problem Solving, Web Development and Programming.
-- 🌱 I’m currently pursuing a **Master of Computer Application** at **Lovely Professional University**
+- 🌱 I’m currently Working as **Software Developer** at **Red Road Healthcare**
 - 💞️ I’m looking to collaborate on any open source platform.
 ---
 <h2>📫 How to reach me: </h2>
